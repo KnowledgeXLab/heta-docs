@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/demo/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/demo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/demo/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/faq/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/faq/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/faq/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/hetadb/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetadb/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetadb/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/hetadb/ingest/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetadb/ingest/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetadb/ingest/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/hetadb/query-modes/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetadb/query-modes/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetadb/query-modes/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/hetagen/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetagen/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetagen/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/hetamem/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetamem/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetamem/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/hetamem/memorykb/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetamem/memorykb/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetamem/memorykb/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/hetamem/memoryvg/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetamem/memoryvg/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetamem/memoryvg/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/hetamem/querying-skill/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetamem/querying-skill/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetamem/querying-skill/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/quick-start/docker/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/quick-start/docker/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/quick-start/docker/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/quick-start/manual/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/quick-start/manual/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/quick-start/manual/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/quick-start/mcp-clients/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/quick-start/mcp-clients/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/quick-start/mcp-clients/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/reference/api/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/reference/api/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/reference/api/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/reference/changelog/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/reference/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/reference/changelog/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/reference/config/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/reference/config/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/reference/config/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/demo/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/demo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/demo/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/faq/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/faq/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/hetadb/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetadb/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetadb/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/hetadb/ingest/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetadb/ingest/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetadb/ingest/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/hetadb/query-modes/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetadb/query-modes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetadb/query-modes/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/hetagen/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetagen/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetagen/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/hetamem/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetamem/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetamem/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/hetamem/memorykb/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetamem/memorykb/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetamem/memorykb/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/hetamem/memoryvg/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetamem/memoryvg/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetamem/memoryvg/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/hetamem/querying-skill/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/hetamem/querying-skill/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/hetamem/querying-skill/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/quick-start/docker/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/quick-start/docker/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/quick-start/docker/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/quick-start/manual/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/quick-start/manual/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/quick-start/manual/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/quick-start/mcp-clients/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/quick-start/mcp-clients/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/quick-start/mcp-clients/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/reference/api/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/reference/api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/reference/api/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/reference/changelog/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/reference/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/reference/changelog/"/>
+    </url>
+    <url>
+        <loc>https://knowledgexllab.github.io/heta-docs/zh/reference/config/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://knowledgexllab.github.io/heta-docs/zh/reference/config/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://knowledgexllab.github.io/heta-docs/reference/config/"/>
+    </url>
+</urlset>
