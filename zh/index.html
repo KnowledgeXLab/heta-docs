@@ -1380,43 +1380,42 @@
 
 <p align="center">
   <b>面向智能体的知识管理平台</b><br/>
-  统一知识库、情景记忆与生成式知识合成。
+  多数据库集成调度 · 双模式记忆 · 结构化知识生成
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/License-MIT-green"/>
+  <img src="https://img.shields.io/badge/License-AGPL%20v3-blue"/>
   <img src="https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white"/>
 </p>
 
 <hr />
 <h2 id="heta">Heta 是什么？</h2>
-<p>Heta 是专为 AI 智能体设计的一体化知识基础设施，为智能体提供跨三个互补层次存储、检索和积累知识的能力：</p>
+<p>Heta 是一个面向 AI 智能体的一体化知识基础设施，整合多种底层数据库，帮助智能体完成三件事情：外部知识获取、自身记忆积累，以及基于知识的推理与生成。</p>
 <ul>
-<li><strong>HetaDB</strong> — 摄取文档（PDF、DOCX、PPTX、XLS/XLSX、图片等），提取知识图谱，并支持从简单向量搜索到多跳推理的五种检索策略。</li>
-<li><strong>HetaMem</strong> — 双层记忆系统：用于会话事实的快速情景回忆（MemoryVG），以及随智能体持续成长的长期知识图谱（MemoryKB）。</li>
-<li><strong>HetaGen</strong> — 知识库驱动的结构化内容生成：表格合成、标签树构建与 Text-to-SQL。<em>(早期阶段)</em></li>
+<li><strong>HetaDB</strong> — 统一管理多类数据库，实现更智能的外部知识整合，无需关心知识来源于何种文件或应存储于哪种数据库。  </li>
+<li><strong>HetaMem</strong> — 双模式记忆：既提供基于向量检索的快速情景回忆（MemoryVG），也支持随智能体持续演化的长期知识图谱（MemoryKB）。  </li>
+<li><strong>HetaGen</strong> — 基于已有知识库进行归纳与扩展，生成更具价值的结构化内容。</li>
 </ul>
 <hr />
 <h2 id="_1">核心功能</h2>
 <p><strong>HetaDB</strong></p>
 <ul>
-<li>支持 PDF、DOCX、PPTX、XLS/XLSX、图片、HTML、Markdown、ZIP 压缩包</li>
-<li>LLM 驱动的知识图谱提取，含去重合并（Union-Find 算法）</li>
-<li>五种查询策略：<code>naive</code> · <code>rerank</code>（BM25 + 向量 + 交叉编码器）· <code>rewriter</code> · <code>multihop</code>（ReAct）· <code>direct</code></li>
-<li>答案内联引用，可追溯至源文档</li>
+<li>通过Mineru等工具进行多格式文件解析（PDF · HTML · 图片 · 表格 · Markdown · Office · 压缩包等）</li>
+<li>将解析后的知识按合适的结构自动分配至不同数据库，实现统一管理，无需用户手动选择存储方式  </li>
+<li>提供多种查询策略以适配不同场景：<code>naive</code>（向量检索）· <code>rerank</code>（BM25 + 向量 + 交叉编码器）· <code>rewriter</code>（检索增强）· <code>multihop</code>（多跳推理）· <code>direct</code>  </li>
+<li>支持源文档溯源，帮助 agent 实现更优的 agentic search</li>
 </ul>
 <p><strong>HetaMem</strong></p>
 <ul>
-<li><strong>MemoryVG</strong> — LLM 自动从对话中提取事实；即时语义搜索；完整 CRUD + 历史审计</li>
-<li><strong>MemoryKB</strong> — LightRAG 知识图谱，随智能体学习持续增长；支持 <code>hybrid</code> / <code>local</code> / <code>global</code> 检索模式</li>
-<li>按 <code>user_id</code> / <code>agent_id</code> / <code>run_id</code> 隔离作用域</li>
+<li><strong>MemoryVG</strong> — 面向高频、碎片化信息的轻量记忆机制，可快速存储与检索对话内容、用户偏好、上下文事实等；支持完整 CRUD 与历史审计  </li>
+<li><strong>MemoryKB</strong> — 基于 LightRAG 构建的长期知识图谱，随智能体持续学习与演化；</li>
 </ul>
 <p><strong>HetaGen</strong> <em>(早期阶段)</em></p>
 <ul>
-<li>通过查询知识库生成结构化表格</li>
-<li>从主题构建标签树</li>
-<li>对生成的表格执行 Text-to-SQL</li>
+<li>基于知识库生成结构化表格数据  </li>
+<li>从主题出发自动构建知识层次结构体系（结构树）  </li>
+<li>支持对生成结果执行 Text-to-SQL 查询  </li>
 </ul>
 <div class="admonition tip">
 <p class="admonition-title">MCP 集成</p>
